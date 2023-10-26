@@ -45,3 +45,5 @@ the RTO/Police database.</li>
 signals reset to the default time cycle for the junction. This
 can be determined according to the crowd density or
 through the serial order.</li>
+
+Author- Richa Mishra
