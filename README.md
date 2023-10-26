@@ -46,4 +46,5 @@ signals reset to the default time cycle for the junction. This
 can be determined according to the crowd density or
 through the serial order.</li>
 
+<br>
 Author- Richa Mishra
